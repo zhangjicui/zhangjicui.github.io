@@ -458,7 +458,6 @@ figure.highlight .section {
   vertical-align: inherit;
   min-width: inherit;
   border-radius: inherit;
-  background-color: #cacaca;
 }
 figure.highlight .copy {
   display: none;
@@ -482,6 +481,9 @@ figure.highlight:hover .copy {
 }
 .gist .file {
   all: initial;
+}
+.section {
+  background-color: #cacaca !important;
 }
 h1 {
   padding-bottom: 10px;
