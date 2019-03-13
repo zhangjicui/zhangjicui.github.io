@@ -370,9 +370,12 @@ img.thumbnail {
 }
 .content h1 {
   font-size: 1.75em;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d3d3d3;
 }
 .content h2 {
   font-size: 1.5em;
+  color: #8a8a8a;
 }
 .content h3 {
   font-size: 1.25em;
